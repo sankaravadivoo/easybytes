@@ -5,7 +5,7 @@ spring:
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to EazyBank accounts related QA(testing) APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "{cipher}065d4502e05ef9e6bf5bc349ca31f8d23a245ccb9110c4c6a2e454b68bc745feb4f97c32123a26259c89a343951c7a02"
